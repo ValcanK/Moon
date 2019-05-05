@@ -39,7 +39,6 @@ disqus_shortname:   taylantatli
 #bing-verify:
 #email:
 twitter:            https://twitter.com/Valcan_K
-youtube:            https://www.youtube.com/c/iliketohackthings
 github-url:         https://github.com/ValcanK
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
@@ -53,7 +52,7 @@ github-url:         https://github.com/ValcanK
 #steam:              username
 #dribbble:          username
 #youtube:           username
-#youtube-channel:   channel
+youtube-channel:   https://www.youtube.com/c/iliketohackthings
 #soundcloud:        username
 #weibo:             username
 #flickr:            username
