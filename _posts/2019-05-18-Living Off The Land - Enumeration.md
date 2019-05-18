@@ -23,7 +23,10 @@ compromised host.
 
 ## In this post I'll be covering various techniques that you can use to conduct Enumeration
 
-
+* Utilizing various Living Off The Land Techniques, we’re going to learn how to enumerate
+as much information as possible about the host we’ve landed on and the target environment.
+Enumeration is a key phase in every engagement. As a Pentester, Red Teamer, and
+Defender you should be able get the lay of the land.
 
 ## Video Walkthrough 
 
