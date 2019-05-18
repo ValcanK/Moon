@@ -66,7 +66,7 @@ C:\> net user username /domain
 * Net users or Net users /domain 
 
 ~~~ ruby
-C:\> Net users
+C:\> net users
 
 C:\> net users /domain
 ~~~
