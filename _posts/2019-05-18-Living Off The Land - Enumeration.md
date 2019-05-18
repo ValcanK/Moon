@@ -37,6 +37,49 @@ Defender you should be able get the lay of the land.
 C:\> whoami
 ~~~
 
+### What permissions do we have? 
+* Whoami /priv
+
+~~~ ruby
+C:\> Whoami /priv
+~~~
+
+### Can we find out more information about the account? 
+* Whoami /all or net user "username"
+
+~~~ ruby
+C:\> Whoami /all
+
+C:\> net user username
+~~~
+
+### What Groups do we belong to? 
+* Net user "username"
+
+~~~ ruby
+C:\> net user username
+
+C:\> net user username /domain
+~~~
+
+### What other accounts exist? 
+* Net users or Net users /domain 
+
+~~~ ruby
+C:\> Net users
+
+C:\> net users /domain
+~~~
+
+### What users are in certain groups?
+* net group Administrators /domain or net localgroup Administrators
+
+~~~ ruby
+C:\> net group Administrators /domain
+
+C:\> net localgroup Administrators
+~~~
+
 ## Video Walkthrough 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wCd1_2gpZrE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
