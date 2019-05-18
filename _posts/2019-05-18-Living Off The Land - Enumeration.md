@@ -26,5 +26,5 @@ compromised host.
 
 
 ## Video Walkthrough 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=wCd1_2gpZrE" frameborder="0"> </iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wCd1_2gpZrE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
