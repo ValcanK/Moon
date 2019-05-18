@@ -18,6 +18,18 @@ as much information as possible about the host we’ve landed on and the target 
 Enumeration is a key phase in every engagement. As a Pentester, Red Teamer, and
 Defender you should be able get the lay of the land.
 
+## Commands for Account Enumeration:
+
+| What we want to find out | Commands |
+|:--------|:-------:|
+| Who we’re logged in as?  | Whoami |
+| What permissions do we have?  | Whoami /priv |
+| Can we find out more information about the account?   | Whoami /all or net user "username" |
+| What Groups do we belong to?   | Net user "username" |
+| What other accounts exist?   | Net users or Net users /domain |
+| What users are in certain groups? | net group Administrators or net localgroup Administrators |
+|:--------|:-------:|
+
 ## Video Walkthrough 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wCd1_2gpZrE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
