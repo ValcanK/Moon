@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About the Theme
+title: About Me
 tags: [about, Jekyll, theme, moon]
 date: 2019-05-18
 comments: false
@@ -9,16 +9,7 @@ comments: false
 <center><a href="https://valcank.github.io/"><b>Home</b></a> Welcome to my blog.</center>
 
 ## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+* My name is Samuel and go by ValcanK/ILikeToHackThings. I'm currently a Lead Red Team Operator/Penetration Tester with a focus on Adversary Emulation.
 
 ## Preview
 
