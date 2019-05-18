@@ -8,5 +8,9 @@
     <a href="https://twitter.com/intent/tweet?text={{ site.url }}{{ page.url }}" title="Share on Twitter" class="tag">
         <span class="term"><i class="fa fa-twitter-square"></i> Tweet</span>
     </a>
+    <a href="http://www.reddit.com/submit?url={{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url | uri_escape}}&title={{ page.title | default:"" | uri_escape }}" target="_blank">
+                {% include share-icon-reddit.svg %}
+        <span class="term"><i class="fa fa-reddit-square"></i> Post</span>
+    </a>
 </span>
 <div style="clear:both"></div>
