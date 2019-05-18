@@ -29,7 +29,7 @@ Defender you should be able get the lay of the land.
 | What other accounts exist?   | Net users or Net users /domain |
 | What users are in certain groups? | net group Administrators or net localgroup Administrators |
 |:--------:|:-------:|
-|{: rules="groups"}|
+
 
 ## Video Walkthrough 
 
