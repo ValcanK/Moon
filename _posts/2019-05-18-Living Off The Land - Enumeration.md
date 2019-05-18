@@ -32,7 +32,7 @@ Defender you should be able get the lay of the land.
 
 ### Who we're logged in as?
 * whoami
-~~~
+~~~ PowerShell
 C:\> whoami
 
 ~~~
