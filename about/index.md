@@ -8,7 +8,7 @@ comments: false
     
 <center><a href="https://valcank.github.io/"><b>Home</b></a> Welcome to my blog.</center>
 
-## Features
+## M3
 * My name is Samuel and go by ValcanK/ILikeToHackThings. I'm currently a Lead Red Team Operator/Penetration Tester with a focus on Adversary Emulation.
 
 ## Preview
