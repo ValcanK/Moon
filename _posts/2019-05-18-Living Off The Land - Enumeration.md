@@ -36,6 +36,9 @@ Defender you should be able get the lay of the land.
 ~~~ ruby
 C:\> whoami
 ~~~
+<figure>
+	<a href="https://github.com/ValcanK/ValcanK.github.io/blob/master/images/whoami.png><img src="https://github.com/ValcanK/ValcanK.github.io/blob/master/images/whoami.png></a>
+</figure>
 
 ### What permissions do we have? 
 * Whoami /priv
@@ -43,6 +46,9 @@ C:\> whoami
 ~~~ ruby
 C:\> Whoami /priv
 ~~~
+<figure>
+	<a href="https://github.com/ValcanK/ValcanK.github.io/blob/master/images/whoami_privs.png><img src="https://github.com/ValcanK/ValcanK.github.io/blob/master/images/whoami_privs.png></a>
+</figure>
 
 ### Can we find out more information about the account? 
 * Whoami /all or net user "username"
@@ -52,6 +58,9 @@ C:\> Whoami /all
 
 C:\> net user username
 ~~~
+<figure>
+	<a href="https://github.com/ValcanK/ValcanK.github.io/blob/master/images/whoami_all.png><img src="https://github.com/ValcanK/ValcanK.github.io/blob/master/images/whoami_all.png></a>
+</figure>
 
 ### What Groups do we belong to? 
 * Net user "username"
@@ -61,6 +70,9 @@ C:\> net user username
 
 C:\> net user username /domain
 ~~~
+<figure>
+	<a href="https://github.com/ValcanK/ValcanK.github.io/blob/master/images/netusername.png><img src="https://github.com/ValcanK/ValcanK.github.io/blob/master/images/netusername.png></a>
+</figure>
 
 ### What other accounts exist? 
 * Net users or Net users /domain 
@@ -70,6 +82,9 @@ C:\> net users
 
 C:\> net users /domain
 ~~~
+<figure>
+	<a href="https://github.com/ValcanK/ValcanK.github.io/blob/master/images/net_users.png><img src="https://github.com/ValcanK/ValcanK.github.io/blob/master/images/net_users.png></a>
+</figure>
 
 ### What users are in certain groups?
 * net group Administrators /domain or net localgroup Administrators
@@ -79,6 +94,9 @@ C:\> net group Administrators /domain
 
 C:\> net localgroup Administrators
 ~~~
+<figure>
+	<a href="https://github.com/ValcanK/ValcanK.github.io/blob/master/images/net_localgroup.png><img src="https://github.com/ValcanK/ValcanK.github.io/blob/master/images/net_localgroup.png></a>
+</figure>
 
 ## Video Walkthrough 
 
