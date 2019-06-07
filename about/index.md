@@ -15,6 +15,7 @@ comments: false
 * The goal for this blog is to share various offensive security tips and tricks. The topics will range from technical to bigger view posts.
 
 ## Current Certs
+* GXPN
 * GPEN
 * GWAPT
 * GCIH
@@ -22,7 +23,6 @@ comments: false
 * Sec+
 
 ## Cert Goals
-* GXPN
 * GCFA
 * OSCP
 * CISSP
