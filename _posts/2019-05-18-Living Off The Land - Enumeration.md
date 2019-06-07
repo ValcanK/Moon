@@ -36,6 +36,7 @@ Defender you should be able get the lay of the land.
 ~~~ ruby
 C:\> whoami
 ~~~
+![My helpful screenshot](https://github.com/ValcanK/ValcanK.github.io/blob/master/images/whoami.png)
 <figure>
 <a href="https://github.com/ValcanK/ValcanK.github.io/blob/master/images/whoami.png><img src="https://github.com/ValcanK/ValcanK.github.io/blob/master/images/whoami.png></a>
 </figure>
