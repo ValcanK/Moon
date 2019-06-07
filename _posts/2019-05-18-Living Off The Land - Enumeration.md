@@ -37,7 +37,7 @@ Defender you should be able get the lay of the land.
 C:\> whoami
 ~~~
 <figure>
-	<a href="https://github.com/ValcanK/ValcanK.github.io/blob/master/images/whoami.png><img src="https://github.com/ValcanK/ValcanK.github.io/blob/master/images/whoami.png></a>
+<a href="https://github.com/ValcanK/ValcanK.github.io/blob/master/images/whoami.png><img src="https://github.com/ValcanK/ValcanK.github.io/blob/master/images/whoami.png></a>
 </figure>
 
 ### What permissions do we have? 
@@ -47,7 +47,7 @@ C:\> whoami
 C:\> Whoami /priv
 ~~~
 <figure>
-	<a href="https://github.com/ValcanK/ValcanK.github.io/blob/master/images/whoami_privs.png><img src="https://github.com/ValcanK/ValcanK.github.io/blob/master/images/whoami_privs.png></a>
+<a href="https://github.com/ValcanK/ValcanK.github.io/blob/master/images/whoami_privs.png><img src="https://github.com/ValcanK/ValcanK.github.io/blob/master/images/whoami_privs.png></a>
 </figure>
 
 ### Can we find out more information about the account? 
@@ -59,7 +59,7 @@ C:\> Whoami /all
 C:\> net user username
 ~~~
 <figure>
-	<a href="https://github.com/ValcanK/ValcanK.github.io/blob/master/images/whoami_all.png><img src="https://github.com/ValcanK/ValcanK.github.io/blob/master/images/whoami_all.png></a>
+<a href="https://github.com/ValcanK/ValcanK.github.io/blob/master/images/whoami_all.png><img src="https://github.com/ValcanK/ValcanK.github.io/blob/master/images/whoami_all.png></a>
 </figure>
 
 ### What Groups do we belong to? 
@@ -71,7 +71,7 @@ C:\> net user username
 C:\> net user username /domain
 ~~~
 <figure>
-	<a href="https://github.com/ValcanK/ValcanK.github.io/blob/master/images/netusername.png><img src="https://github.com/ValcanK/ValcanK.github.io/blob/master/images/netusername.png></a>
+<a href="https://github.com/ValcanK/ValcanK.github.io/blob/master/images/netusername.png><img src="https://github.com/ValcanK/ValcanK.github.io/blob/master/images/netusername.png></a>
 </figure>
 
 ### What other accounts exist? 
@@ -83,7 +83,7 @@ C:\> net users
 C:\> net users /domain
 ~~~
 <figure>
-	<a href="https://github.com/ValcanK/ValcanK.github.io/blob/master/images/net_users.png><img src="https://github.com/ValcanK/ValcanK.github.io/blob/master/images/net_users.png></a>
+<a href="https://github.com/ValcanK/ValcanK.github.io/blob/master/images/net_users.png><img src="https://github.com/ValcanK/ValcanK.github.io/blob/master/images/net_users.png></a>
 </figure>
 
 ### What users are in certain groups?
@@ -95,7 +95,7 @@ C:\> net group Administrators /domain
 C:\> net localgroup Administrators
 ~~~
 <figure>
-	<a href="https://github.com/ValcanK/ValcanK.github.io/blob/master/images/net_localgroup.png><img src="https://github.com/ValcanK/ValcanK.github.io/blob/master/images/net_localgroup.png></a>
+<a href="https://github.com/ValcanK/ValcanK.github.io/blob/master/images/net_localgroup.png><img src="https://github.com/ValcanK/ValcanK.github.io/blob/master/images/net_localgroup.png></a>
 </figure>
 
 ## Video Walkthrough 
