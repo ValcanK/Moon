@@ -2,7 +2,7 @@
 layout: post
 title: A Red Teamer's Review of OpenSOC CTF
 date: 2019-10-14
-excerpt: "A Red Teamer's Review of OpenSOC CTF"
+excerpt: "As a Red Teamer/Penetration Tester it’s not often that I get the opportunity to participate in a Network Defense Simulation style CTF. Typically I’d be the one conducting the network attacks or adversary simulations."
 tags: [blue teaming, CTF, incident response, penetration testing, threat hunting, red teaming]
 comments: true
 ---
