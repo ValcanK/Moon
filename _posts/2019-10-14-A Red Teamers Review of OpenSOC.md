@@ -38,7 +38,10 @@ Performing investigative analysis wasn’t a foreign concept to me, I was just a
 
 Ok, back to more information about the CTF. At the beginning there were 3 or 4 intrusion sets/investigations to get through. Each team was presented with a large set of data and a live network. The OpenSOC team did a great job creating what seemed like a real enterprise network. The network consisted of various endpoints, servers, security devices, etc. Not only were there live systems but each endpoint had simulated users generating traffic, which definitely made analyzing network traffic difficult. 
 
-At various points during the investigation we were presented with questions like “Identify the IP and Port being used for C2”. Now looking at that from a Red Team perspective my first thought is to look at commonly used ports for inbound/outbound traffic, i.e. (80, 443, etc.). Of course, finding that data was easier said than done. We ended up having to trace it back to the actual C2 method that the Threat Actor was using. Which brings up one of the other questions 
+At various points during the investigation we were presented with questions like 
+> “Identify the IP and Port being used for C2”.
+
+Now looking at that from a Red Team perspective my first thought is to look at commonly used ports for inbound/outbound traffic, i.e. (80, 443, etc.). Of course, finding that data was easier said than done. We ended up having to trace it back to the actual C2 method that the Threat Actor was using. Which brings up one of the other questions 
 > “What was the Threat Actor using for Persistence and C2?”. 
 
 Immediately I began thinking 
