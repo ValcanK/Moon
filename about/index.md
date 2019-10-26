@@ -7,6 +7,7 @@ comments: false
 ---
     
 <center><a href="https://valcank.github.io/"><b>Home</b></a></center>
+
 <center>Welcome to my blog.</center>
 
 ## M3
